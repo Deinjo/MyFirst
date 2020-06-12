@@ -1,3 +1,3 @@
 Hallo Welt
 
-Die ist ein Test
+Die ist ein Test.
