@@ -1,3 +1,4 @@
 # MyFirst
-Dies ist ein erster Test um GitHub zu probieren
-Und jetzt ergänzern wir eine Zeile.
+Dies ist ein erster Test um GitHub zu probieren<b>
+Und jetzt ergänzen wir eine Zeile.
+Und noch eine Zeile
